@@ -1,0 +1,14 @@
+/Users/sabaazam/fullstack-crm/bin/Debug/net10.0/fullstack-crm
+/Users/sabaazam/fullstack-crm/bin/Debug/net10.0/fullstack-crm.deps.json
+/Users/sabaazam/fullstack-crm/bin/Debug/net10.0/fullstack-crm.runtimeconfig.json
+/Users/sabaazam/fullstack-crm/bin/Debug/net10.0/fullstack-crm.dll
+/Users/sabaazam/fullstack-crm/bin/Debug/net10.0/fullstack-crm.pdb
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.AssemblyInfoInputs.cache
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.AssemblyInfo.cs
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.csproj.CoreCompileInputs.cache
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.dll
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/refint/fullstack-crm.dll
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.pdb
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/fullstack-crm.genruntimeconfig.cache
+/Users/sabaazam/fullstack-crm/obj/Debug/net10.0/ref/fullstack-crm.dll
