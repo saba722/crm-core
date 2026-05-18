@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fullstack-crm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b40e6646235ab638e0012e6a52ac02a58812e87")]
 [assembly: System.Reflection.AssemblyProductAttribute("fullstack-crm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fullstack-crm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
