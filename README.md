@@ -23,7 +23,7 @@ This project is currently in the setup phase and will gradually evolve into a co
 
 ## Frontend (planned)
 
-* ReactJS
+* React JS
 * JavaScript / TypeScript
 * Tailwind CSS
 
