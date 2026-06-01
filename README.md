@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-# 🧑‍💻 FullStack CRM
+# 🧑‍💻 crm-core
 
 A modern full-stack CRM (Customer Relationship Management) application built with **ASP.NET Core**, **React**, and modern development tools.
 
@@ -38,7 +38,7 @@ This project is currently in the setup phase and will gradually evolve into a co
 # 📁 Project Structure
 
 ```bash
-fullstack-crm/
+crm-core/
 │
 ├── backend/          # ASP.NET Core backend
 ├── frontend/         # React frontend
@@ -47,9 +47,22 @@ fullstack-crm/
 └── README.md
 ```
 
+## Architecture
+
+| Layer | Project |
+|---|---|
+| Domain | `CrmCore.Domain` |
+| Application | `CrmCore.Application` |
+| Infrastructure | `CrmCore.Infrastructure` |
+| API | `CrmCore.API` |
+
 ---
 
 # ⚙️ Getting Started
+
+### Prerequisites
+- .NET 8 SDK
+- PostgreSQL (or SQL Server)
 
 ## 1. Clone the Repository
 
