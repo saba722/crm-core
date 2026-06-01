@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSbuDUBVKEM=",
+  "dgSpecHash": "H2yfcjRStGg=",
   "success": true,
-  "projectFilePath": "/Users/sabaazam/fullstack-crm/fullstack-crm.csproj",
+  "projectFilePath": "/Users/sabaazam/crm-core/crm-core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

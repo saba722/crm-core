@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sabaazam/fullstack-crm/fullstack-crm.csproj",
-      "projectName": "fullstack-crm",
-      "projectPath": "/Users/sabaazam/fullstack-crm/fullstack-crm.csproj",
+      "projectUniqueName": "/Users/sabaazam/crm-core/crm-core.csproj",
+      "projectName": "crm-core",
+      "projectPath": "/Users/sabaazam/crm-core/crm-core.csproj",
       "packagesPath": "/Users/sabaazam/.nuget/packages/",
-      "outputPath": "/Users/sabaazam/fullstack-crm/obj/",
+      "outputPath": "/Users/sabaazam/crm-core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sabaazam/.nuget/NuGet/NuGet.Config"
