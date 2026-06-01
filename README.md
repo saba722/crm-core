@@ -67,13 +67,13 @@ crm-core/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saba722/fullstack-crm.git
+git clone https://github.com/saba722/crm-core.git
 ```
 
 ## 2. Open Project
 
 ```bash
-cd fullstack-crm
+cd crm-core.git
 code .
 ```
 
